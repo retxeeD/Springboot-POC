@@ -4,7 +4,6 @@ import com.api.study.DTO.medico.DadosAtualizacaoMedico;
 import com.api.study.DTO.medico.DadosCadastroMedico;
 import com.api.study.DTO.Especialidade;
 import jakarta.persistence.*;
-import jakarta.validation.Valid;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
